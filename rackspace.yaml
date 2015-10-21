@@ -1,6 +1,6 @@
 schema-version: 1.0.0
 application-family: Databases
-application-name: BigData
+application-name: BigData-Spark
 flavor: Spark
 application-version: 1.5
 reach-info:
